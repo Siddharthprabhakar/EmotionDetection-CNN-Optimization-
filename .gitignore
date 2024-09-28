@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# AI model stuff
+emotion_detection_model_vgg.h5
+Epoch-20_vgg.h5
+
 # C extensions
 *.so
 
